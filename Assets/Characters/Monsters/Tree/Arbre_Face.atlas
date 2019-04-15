@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monstre_Arbre_Face_FG
+  rotate: false
+  xy: 2, 361
+  size: 586, 643
+  orig: 586, 643
+  offset: 0, 0
+  index: -1
+Monstre_Arbre_Face_Tronc
+  rotate: false
+  xy: 2, 2
+  size: 515, 357
+  orig: 515, 357
+  offset: 0, 0
+  index: -1
+Monstre_Arbre_MainD_Face
+  rotate: true
+  xy: 590, 275
+  size: 216, 256
+  orig: 216, 256
+  offset: 0, 0
+  index: -1
+Monstre_Arbre_Oeil
+  rotate: false
+  xy: 931, 957
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Monstre_Arbre_face_BG
+  rotate: true
+  xy: 590, 493
+  size: 511, 339
+  orig: 511, 339
+  offset: 0, 0
+  index: -1
